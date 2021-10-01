@@ -30,8 +30,7 @@ left: 250px;
 <p> Kolkata Knight Riders - Eoin Morgan (C), Andre Russell Dinesh Karthik (W) Kamlesh Nagarkoti Kuldeep Yadav Lockie Ferguson Nitish Rana Pat Cummins Prasidh Krishna Rahul Tripathi Sandeep Warrier Shivam Mavi Shubman Gill Sunil Narine Tim Seifert Varun Chakaravarthy Shakib Al Hasan Sheldon Jackson Vaibhav Arora Karun Nair Harbhajan Singh Ben Cutting Venkatesh Iyer Pawan Negi Gurkeerat Mann Singh Tim Southee </p>
 <p> Punjab Kings - KL Rahul (C) (W), Arshdeep Singh Chris Gayle Chris Jordan Darshan Nalkande Deepak Hooda Harpreet Brar Ishan Porel Mandeep Singh Mayank Agarwal Mohammad Shami Murugan Ashwin Nicholas Pooran Prabhsimran Singh Ravi Bishnoi Sarfaraz Khan Dawid Malan Jhye Richardson Shahrukh Khan Riley Meredith Moises Henriques Jalaj Saxena Utkarsh Singh Fabian Allen Saurabh Kumar Adil Rashid Nathan Ellis Aiden Markram </p>
 <p> The squad hasn't been decided yet but we will soon see it</p>
-<img src="C:/Shri Hari B/Coding/KKR.jpg" alt="KKR squad">
-<img src="C:/Shri Hari B/Coding/PBKS.jpg" alt="PBKS squad">
+
 <h2>Probabity of Winning</h2>
 <h3>80% - KKR
 PBKS - 20%</h3>
@@ -41,7 +40,7 @@ PBKS - 20%</h3>
 <p> We are here for Match 45 at the 2021 season of IPL! Match 45 is played at UAE Dubai International stadium! A dominating KKR go against a chaotic PBKS. This will be a crucial win for the Punjab Kings if they win. Punjab Kings' captain KL Rahul vs KKR captain Eoin Morgan. This will be the match that everyone waited for! Russel versus Gayle! Shami versus Sunil Narine! Arshdeep versus Varun and many more experienced and young players.
 In the previous match, Csk won against Srh with a match winning six for MS Dhoni.The Super Kings find their place in the playoffs! Will it be KKR who go to the playoffs or will it be PBKS who get to win their maiden IPL. Stay Tuned to find out!</p>
  <h2> Points Table and others </h2>
- <img src="C:/Shri Hari B/Coding/points table.jpg" alt="Ipl 2021 points table">
+ <a href="https://www.iplt20.com/points-table/men/2021">Points Table</a>
  <h3> Orange and Purple caps </h3>
  <p> Orange Cap - Shikar Dhawan (DC) with 454 runs</p>
  <p> Purple Cap - Harshal Patel (RCB) with 26 wickets and 1 hatrick</p>
