@@ -24,7 +24,7 @@ left: 250px;
 <body>
 <h1>Cricket Database</h1>
 <iframe src="https://bwidget.crictimes.org/" style="width:100%;min-height: 250px;" frameborder="0" scrolling="yes"></iframe>
-<h2>Upcoming match: Kolkata Knight Rider VS Runjab Kings</h2>
+<h2>Upcoming match: Kolkata Knight Rider VS Punjab Kings</h2>
 <h3> Squad XI </h3>
 <p> Posibilities </p>
 <p> Kolkata Knight Riders - Eoin Morgan (C), Andre Russell Dinesh Karthik (W) Kamlesh Nagarkoti Kuldeep Yadav Lockie Ferguson Nitish Rana Pat Cummins Prasidh Krishna Rahul Tripathi Sandeep Warrier Shivam Mavi Shubman Gill Sunil Narine Tim Seifert Varun Chakaravarthy Shakib Al Hasan Sheldon Jackson Vaibhav Arora Karun Nair Harbhajan Singh Ben Cutting Venkatesh Iyer Pawan Negi Gurkeerat Mann Singh Tim Southee </p>
