@@ -45,6 +45,7 @@ DC - 55%</h3>
  <p> Purple Cap - Harshal Patel (RCB) with 26 wickets and 1 hatrick</p>
  <h2> Highlights </h2>
  <iframe width="420" height="345" src="https://www.iplt20.com/video/242437/m45-kkr-vs-pbks-match-highlights?tagNames=indian-premier-league,highlights,indian-premier-league,highlights">
-</iframe>
+ </iframe> <h2> Post Match results</h2>
+ <p> Finally my predictions came TRUE!!! DC beat MI by 4 wickets and get a ticket to the playoffs with CSK. After a lot of wickets, after a lot of pressure coocker moments and a whole lot of dummy joke commentary by Cheeka (Tamil Version). We finally saw Ashwin hitting the winning six. After a rough start from Mumbai, they got a total of 129 runs and lost 8 wickets. And then, DC had a even more rough start! Wicket by Wicket, The Mumbai Indians were gaining. After a great comeback by Shreyas Iyer, they were able to gain the victory with a hard hit six from Ashwin which also affected the chances of Mumbai's journey to the playoffs. And what I even liked was the <em>Karma</em> Krunal Pandya got. While MI was batting their final over, Krunal Pandya came on strike and hit a large six on Ashwin's ball. At the same last over of DC's Innings, Ashwin hit the match winning six against Krunal Pandya's Ball. Now thats what I call a sweet revenge!</p>
 <h2> Reference</h2>
 <p>For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click ME! </a></p>
