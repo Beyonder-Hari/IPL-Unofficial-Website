@@ -32,7 +32,7 @@ DC - 55%</h3>
  
  <h3>CSK - 75%<br>
   RR - 25%</h3>
-<p>Editing in Process
+<p>Welcome to the double-header match! A breezy day and a powerplaying match! DC VERSUS MI!! After a much needed win for PBKS, Punjab takes the spot of Mumbai and now ranks 5th. Mi now need this win no matter what. With Delhi needing one more win to qualify for the playoffs, Mumbai still has a chance to get a ticket to the playoffs.Delhi ranking 2nd and Mumbai ranking 6th, may be bad for the Mumbai Indians. After DC's Prithvi Shaw's injury, the DC openers find a tough partnership after their loss against KKR. Will the team be able to find a way to co-operate and win? After the win against PBKS, will their middle order batsman still be able to keep the form they lost and regained?The Dehli department might be able to even with the pacers of Mumbai, but will they be able to overcome Mumbai's best allrounders - Kieron Pollard and Hardik Pandya?After a match winning 40 aginst Punjab, will Hardik be able to maintain his form? Or will the Delhi Capital overcome Mumbai. This is the battle between The Defending Champions vs The Title Seekers! Stay tuned to find out
 </p>
 <h2> Details about the Match </h2>
 <p> Editing in process</p>
